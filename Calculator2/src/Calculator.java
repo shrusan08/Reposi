@@ -6,12 +6,12 @@ public class Calculator {
 public void add()
 {
 	c=a+b;
-	System.out.println("addition of two numbers is: " +c);
+	System.out.println("addition of two     numbers is: " +c);
 }
 public void sub()
 {
 	c=a-b;
-	System.out.println("subtraction of two numbers is: " +c);
+	System.out.println("subtraction of two    numbers is: " +c);
 }
 
 }
